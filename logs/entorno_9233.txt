@@ -1,0 +1,3 @@
+La versión actual de bash es: 5.0.17(1)-release
+El contenido de la variable PATH es: /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+El token de autenticidad es: 92338899

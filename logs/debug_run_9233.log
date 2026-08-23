@@ -1,0 +1,20 @@
++ '[' 2 -ne 2 ']'
++ [[ 9233 =~ ^-?[0-9]+$ ]]
++ [[ 8899 =~ ^-?[0-9]+$ ]]
++ SUMA=18132
++ RESTA=334
++ MULTIPLICACION=82164467
++ '[' 8899 -eq 0 ']'
++ DIVISION=1
++ RESTO=334
++ '[' 9233 -eq 8899 ']'
++ '[' 9233 -gt 8899 ']'
++ COMPARACION='9233 es un número mayor que 8899'
++ echo '| Operación | Expresión | Resultado |'
++ echo '| :--- | :--- | :--- |'
++ echo '| Suma | 9233 + 8899 | 18132 |'
++ echo '| Resta | 9233 - 8899 | 334 |'
++ echo '| Multiplicación | 9233 * 8899 | 82164467 |'
++ echo '| División | 9233 / 8899 | 1 |'
++ echo '| Resto (Módulo) | 9233 % 8899 | 334 |'
++ echo '| Comparación | N/A | 9233 es un número mayor que 8899 |'

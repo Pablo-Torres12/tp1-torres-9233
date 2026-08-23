@@ -1,0 +1,12 @@
+Iniciando el diagnóstico para el Administrador: Pablo David Torres
+La fecha y hora actual del sistema es: 2026-08-15 17:17:28
+Tiempo de actividad del sistema:  17:17:28 up  1:08,  1 user,  load average: 0,65, 0,58, 0,44
+El porcentaje de uso en disco de la partición raíz (/) es:
+S.ficheros     Tamaño Usados  Disp Uso% Montado en
+/dev/sda5         24G   9,8G   13G  43% /
+El espacio disponible en el directorio /home es:
+S.ficheros     Tamaño Usados  Disp Uso% Montado en
+/dev/sda5         24G   9,8G   13G  43% /
+Usuarios conectados actualmente:
+pablo    :0           2026-08-15 16:09 (:0)
+La dirección IP local es: 192.168.1.31 
