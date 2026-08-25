@@ -11,5 +11,8 @@ Este repositorio contiene los scripts de bash (entorno, diagnóstico y comparaci
 ### 2. Script de Diagnóstico
 ![Ejecución Diagnóstico](cap_8.png)
 
-### 3. Script Comparador (Modo Debug)
+### 3. Script Comparador
+![Ejecución Comparador](cap_13.png)
+
+### 4. Script Comparador (Modo Debug)
 ![Ejecución Comparador](cap_14.png)
