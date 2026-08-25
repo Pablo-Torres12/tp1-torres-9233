@@ -1,0 +1,6 @@
+# Trabajo Práctico 1
+**Alumno:** Pablo Torres
+**Legajo:** 9233
+
+## Descripción
+Este repositorio contiene los scripts de bash (entorno, diagnóstico y comparación) desarrollados para la materia, junto con los archivos de registro (logs) que evidencian su correcta ejecución. En el documento PDF adjunto se encuentran las respuestas teóricas y las capturas de pantalla de las pruebas.
